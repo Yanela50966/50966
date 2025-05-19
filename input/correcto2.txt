@@ -1,0 +1,8 @@
+switch (x) {
+  case 1:
+    console.log("uno");
+  case 2:
+    x = 3;
+  default:
+    console.log("otro");
+}
