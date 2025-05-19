@@ -5,6 +5,10 @@ Requisitos
 -ANTLR4 descargado(antlr-4.13.0-complete.jar)
 INSTALACION
 1. clonar el proyecto
+git clone https://github.com/Yanela50966/50966.git
+cd 50966
+code .
+sino desde vs code en open folder va estar la carpeta 50966
 2. instalar las dependencias
 npm install
 -genera los archivos del parser
