@@ -10,4 +10,5 @@
    npm install
 
 4. Ejecutar el analizador:
-   node index.js
+   node src/main.js
+
